@@ -35,3 +35,9 @@ This table describes about the  places to visit near Museum
 | Via Veneto | Santa Maria Addolorata | 1 hour |
 | Rome | San Patrizio | 30 mins|
 | Rome | Galleria Nazionale d'Arte Moderna | 45mins|
+
+***
+### Pithy Quotes
+>  "The greatest glory in living lies not in never falling, but in rising every time we fall" - *Nelson Mandela*
+
+>  "If life were predictable it would cease to be life, and be without flavor" - *Eleanor Roosevelt*
