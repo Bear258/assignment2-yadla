@@ -46,7 +46,7 @@ This table describes about the  places to visit near Museum
 ### Code Fencing 
 > How to use map-deep-get in sass ?
 
-[Question] (https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass)
+[Question](https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass)
 
 ```
 @function map-deep-get($map, $keys...) {
