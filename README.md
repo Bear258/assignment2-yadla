@@ -23,5 +23,15 @@ The Galleria Borghese (Italian for 'Borghese Gallery') is an art gallery in **Ro
 - Trinità dei Monti <br>
 
 - Spanish Steps
+ 
+[About Me](AboutMe.md)
 
 ***
+### Tables
+This table describes about the  places to visit near Museum
+| City | Tourist Spot | Duration |
+|-------|---------------|----------|
+| Rome | Palazzo Margherita | 25 mins |
+| Via Veneto | Santa Maria Addolorata | 1 hour |
+| Rome | San Patrizio | 30 mins|
+| Rome | Galleria Nazionale d'Arte Moderna | 45mins|
